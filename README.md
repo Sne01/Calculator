@@ -17,11 +17,4 @@ This project is a simple calculator built using HTML, CSS, and JavaScript. It al
 - CSS
 - JavaScript
 
-## Usage
-
-To use the calculator, simply open the `MyCalculator.html` file in your preferred web browser.
-
-## Demo
-
-You can see a live demo of the calculator .
 
